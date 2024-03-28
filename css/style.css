@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(255, 207, 255);
+}
+
+video {
+    width: 430px;
+    border-radius: 5%;
+}
